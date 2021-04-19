@@ -1,0 +1,11 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+  color: red;
+  font-weight: 800;
+}
+.license span {
+  color:#046ed8;
+  font-weight: 600;
+}
